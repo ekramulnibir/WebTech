@@ -1,0 +1,101 @@
+#logbody {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #fbf7f7;
+}
+
+
+#h41 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#login-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#form-field {
+  margin-bottom: 15px;
+}
+
+#form-field label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+#form-field input[type="text"],
+#form-field input[type="password"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+#form-field input[type="submit"],
+#form-field button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  text-align: right;
+}
+
+#form-field input[type="submit"] {
+  
+  float: right;
+}
+
+#form-field button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#error-message {
+  color: #ff0000;
+  margin-bottom: 10px;
+}
+
+#form-field1 input[type="submit"],
+#form-field button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  text-align: right;
+}
+
+#form-field2 button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+#p1 button {
+  padding: 8px 16px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#p2 button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#p3 button:hover {
+  background-color: #66ccff;
+}
